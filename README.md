@@ -4,6 +4,12 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2600&pause=900&color=38BDF8&center=true&vCenter=true&width=700&lines=Web+Developer;Frontend+%26+UI+Developer;React+%7C+Laravel+%7C+Node.js;Building+Digital+Experiences" />
 
+<br />
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="380" alt="Animated web developer coding at a computer" />
+
+<br />
+
 [![Profile Views](https://komarev.com/ghpvc/?username=mahad128&style=for-the-badge&color=0ea5e9)](https://github.com/mahad128)
 [![Followers](https://img.shields.io/github/followers/mahad128?style=for-the-badge&color=38bdf8&labelColor=020617)](https://github.com/mahad128?tab=followers)
 [![Email](https://img.shields.io/badge/EMAIL-mahad.n28%40gmail.com-ea580c?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mahad.n28@gmail.com)
